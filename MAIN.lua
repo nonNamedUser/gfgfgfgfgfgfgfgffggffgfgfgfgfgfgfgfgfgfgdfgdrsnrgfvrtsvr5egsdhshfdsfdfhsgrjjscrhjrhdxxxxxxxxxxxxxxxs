@@ -10,7 +10,7 @@ OR THE SCRIPT WON'T WORK!
 !
 !
 ]]
-
+print("LOADED IN!")
 
 
 
